@@ -10,7 +10,7 @@
     border-right: 0px;
     height: 2.2em;
     /*box-shadow:  0px 0px 1px 3px rgba(0,0,0,0.4);*/
-    font-size: 11pt;
+    font-size: 11px;
     /*font-weight: bold;*/
 }
 
@@ -65,7 +65,8 @@
 .workspace-button:hover {
     width: 20px;
     height: 10px;   
-    color: #ffffff;background-color: #95c1ea;
+    color: #ffffff;
+    background-color: #95c1ea;
     box-shadow: inset 0px 1px 0px rgba(255,255,255,0.55); 
     transition-duration: 100;
 }
@@ -205,7 +206,7 @@
 
 .status-chooser-user-name {
     font-weight: bold;
-    font-size: 1.5em;
+    font-size: 11px;
     min-width: 120pt;
 }
 
@@ -244,6 +245,6 @@
 .panel-launcher:hover {
     border: 1px solid rgba(255,255,255,0);
     border-radius: 4px;
-    background-color: #7ab15e; /*#3D95E7;*/
+    /*background-color: #7ab15e; #3D95E7;*/
     box-shadow: inset 0px 1px 0px rgba(255,255,255,0.5);
 }
