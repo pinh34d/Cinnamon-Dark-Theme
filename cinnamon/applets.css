@@ -10,7 +10,7 @@
     border: 1px solid rgba(255,255,255,0);
     border-radius: 4px;
     background-color: #7ab15e; /*#3D95E7;*/
-    box-shadow: inset 0px 1px 0px rgba(255,255,255,0.5);
+    box-shadow: inset 0px 1px 0px rgba(255,255,255,0.5); 
 }
 
 .applet-box:active,
